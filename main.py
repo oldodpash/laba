@@ -174,5 +174,4 @@ def ten_to_fi(n):
             print('Текущее значение нового числа:', finres)
         i -= 1
     print('Получившийся результат:', finres)
-
     return finres
